@@ -54,4 +54,4 @@ Fique à vontade para abrir uma issue ou enviar um pull request.
 
 Willian Santos
 LinkedIn
- ([coloque seu link aqui](https://www.linkedin.com/in/willian-r-santos/))
+ ([link aqui](https://www.linkedin.com/in/willian-r-santos/))
